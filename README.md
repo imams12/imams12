@@ -17,7 +17,7 @@ imams12/imams12 is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-[gmail]: mailto:imamsuyuti00@gmail.com
+[gmail]: imamsuyuti00@gmail.com
 [instagram]: https://instagram.com/imam_soeyoeti12
 [linkedin]: https://www.linkedin.com/in/imam-suyuti-681a74213
 [tableau]: https://public.tableau.com/profile/imam.suyuti
