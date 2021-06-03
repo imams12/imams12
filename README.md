@@ -5,10 +5,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | Email" width="22px" src="https://img.icons8.com/fluent/48/000000/gmail.png" />][gmail]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Tableau" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tableau.svg" />][tableau]
+[<img align="left" alt="codeSTACKr | Email" width="22px" src="https://img.icons8.com/fluent/144/000000/gmail.png" />][gmail]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://img.icons8.com/fluent/144/000000/instagram-new.png" />][instagram]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://img.icons8.com/fluent/144/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="codeSTACKr | Tableau" width="22px" src="https://img.icons8.com/color/144/000000/tableau-software.png" />][tableau]
 
 <br />
 
