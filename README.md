@@ -18,6 +18,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 [gmail]: mailto:imamsuyuti00@gmail.com
-[instagram]: https://instagram.com/imam_soeyoeti12
+[instagram]: https://instagram.com/imam_suyuti00
 [linkedin]: https://www.linkedin.com/in/imam-suyuti-681a74213
 [tableau]: https://public.tableau.com/profile/imam.suyuti
