@@ -3,6 +3,8 @@
 - 🌱 I’m currently studying at **Sebelas Maret University** majoring in **Mathematics**.
 - 💞️ I want to collaborate on project data cases
 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=imams12.imams12)
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | Email" width="22px" src="https://img.icons8.com/fluent/144/000000/gmail.png" />][gmail]
