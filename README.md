@@ -5,6 +5,14 @@
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=imams12.imams12)
 
+### Github Statistic
+<p align="left">
+<a href="https://github.com/dimasmds">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=imams12&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=imams12&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | Email" width="22px" src="https://img.icons8.com/fluent/144/000000/gmail.png" />][gmail]
