@@ -1,4 +1,5 @@
 ### Hi there, I'm Imam Suyuti 👋
+[![@imamsuyuti00's Holopin board](https://holopin.io/api/user/board?user=imamsuyuti00)](https://holopin.io/@imamsuyuti00)
 - 👀 I’m interested in Data Scientist
 - 🌱 I’m currently studying at **Sebelas Maret University** majoring in **Mathematics**.
 - 💞️ I want to collaborate on project data cases
@@ -21,7 +22,7 @@
 [<img align="left" alt="codeSTACKr | Medium" width="22px" src="https://img.icons8.com/color/144/000000/medium-logo--v1.png" />][medium]
 [<img align="left" alt="codeSTACKr | Tableau" width="22px" src="https://img.icons8.com/color/144/000000/tableau-software.png" />][tableau]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://img.icons8.com/color/144/000000/twitter--v1.png" />][twitter]
-[![@imamsuyuti00's Holopin board](https://holopin.io/api/user/board?user=imamsuyuti00)](https://holopin.io/@imamsuyuti00)
+
 
 <br />
 
