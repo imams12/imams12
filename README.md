@@ -1,6 +1,11 @@
-### Hi there, I'm Imam Suyuti 👋
 [![@imamsuyuti00's Holopin board](https://holopin.io/api/user/board?user=imamsuyuti00)](https://holopin.io/@imamsuyuti00)
-- 👀 I’m interested in Data Scientist
+
+<h1 align="center">Hi 👋, I'm Imam Suyuti</h1>
+<h3 align="center">"Trust the process and DOA"</h3> 
+
+
+
+- 👀 I’m interested in **Data Scientist**
 - 🌱 I’m currently studying at **Sebelas Maret University** majoring in **Mathematics**.
 - 💞️ I want to collaborate on project data cases
 
@@ -9,7 +14,7 @@
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/imams12">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=imams12&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=imams12&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=imams12&layout=compact&langs_count=8&theme=gotham"/>
 </a>
 </p>
