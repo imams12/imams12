@@ -19,7 +19,7 @@
 </a>
 </p>
 
-![snake gif](https://github.com/imams12/imams12/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://github.com/imams12/imams12/blob/output/github-contribution-grid-snake.svg)
 
 ### Connect with me:
 
