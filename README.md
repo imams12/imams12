@@ -19,7 +19,7 @@
 </a>
 </p>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/imams12/imams12/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![snake gif](https://github.com/imams12/imams12/blob/output/github-contribution-grid-snake.gif)
 
 ### Connect with me:
 
