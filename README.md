@@ -6,16 +6,17 @@
 
 
 - 👀 I’m interested in **Data Scientist**
+
 - 🌱 I’m currently studying at **Sebelas Maret University** majoring in **Mathematics**.
+
 - 💞️ I want to collaborate on project data cases
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=imams12.imams12)
 
-### Github Statistic
-<div align="left">
+<div align="center">
 <a href="https://github.com/imams12">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=imams12&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imams12&layout=compact&langs_count=7&theme=great-gatsby"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=imams12&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imams12&layout=compact&langs_count=7&theme=great-gatsby"/>
 </div>
 
 ![Snake animation](https://github.com/imams12/imams12/blob/output/github-contribution-grid-snake.svg)
