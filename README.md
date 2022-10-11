@@ -19,6 +19,8 @@
 </a>
 </p>
 
+![Snake animation](https://github.com/imams12/imams12/blob/output/github-contribution-grid-snake.svg)
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | Email" width="22px" src="https://img.icons8.com/fluent/144/000000/gmail.png" />][gmail]
@@ -31,10 +33,6 @@
 
 <br />
 
-<!---
-imams12/imams12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 [gmail]: mailto:imamsuyuti00@gmail.com
 [instagram]: https://instagram.com/imam_suyuti00
