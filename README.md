@@ -19,7 +19,7 @@
 </a>
 </p>
 
-![Snake animation](https://github.com/imams12/imams12/blob/output/github-contribution-grid-snake.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/imams12/imams12/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 ### Connect with me:
 
