@@ -40,6 +40,6 @@
 [linkedin]: https://www.linkedin.com/in/imam-suyuti-681a74213
 [medium]: https://medium.com/@imamsuyuti00
 [tableau]: https://public.tableau.com/profile/imam.suyuti
-[twitter]: https://twitter.com/ImamS121100
+[twitter]: https://twitter.com/IMAM121100
 [dev_community]: https://dev.to/imams12
   
