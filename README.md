@@ -5,9 +5,9 @@
 
 
 
-- 👀 I’m interested in **Data Scientist**
+- 👀 I’m interested in **Back End**, **Data Scientist**, **ML Engineer**, **Data Engineer**, **&** **IOT Engineer**
 
-- 🌱 I’m currently studying at **Sebelas Maret University** majoring in **Mathematics**.
+- 🌱 I’m graduated at **Sebelas Maret University** majoring in **Mathematics**.
 
 - 💞️ I want to collaborate on project data cases
 
